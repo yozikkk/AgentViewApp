@@ -234,7 +234,7 @@ public final class AgentStateUI extends JFrame implements
 		// scrollPane to scroll the textArea
 		mainTextAreaScrollPane = new JScrollPane(infoTextArea);
 		
-	
+	//Hey my new update
 		
 
 		// Logout button
